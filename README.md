@@ -1,14 +1,11 @@
 # Bruno Fernando
-### Hi there 👋
+## What's up?
 
-I'm a Full Stack Developer 💻
+I'm Bruno, a Software Engineer with long time experience in Front-End development.
 
-I love promoting solutions using programming!
+Currently I work full-time at [@tonolucro](https://github.com/tonolucro).
 
-- 🚀 Seeking new challenges
-- 💜 Seeking to collaborate with challenging projects
-- 💻 Skill: PHP(Wordpress, Laravel), HTML, CSS and JavaScript
-- 📘 Studying: ReactJS, Node.js, React Native & Typescript
+I like to help the community here at GitHub... I'm keeping a very nice project called [SetRobot](https://github.com/3runoDesign/setRobot) a theme for WP.
 
 [![Gmail Badge](https://img.shields.io/badge/-contato@brunofernando.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@brunofernando.com.br)](mailto:contato@brunofernando.com.br)
 
