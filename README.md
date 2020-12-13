@@ -4,8 +4,8 @@
 ```javascript
 const bruno = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, NextJs, Styled-Components, Emotion, Jest],
-  skill: [UX_UI, Branding, Design_Thinking]
+  tools: [React, Node, NextJs, StyledComponents, Emotion, Jest],
+  skill: [UXUI, Branding, DesignThinking]
   challenge: "I'm focused on react, node and typescript"
 }
 ```
