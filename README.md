@@ -1,6 +1,8 @@
 # Bruno Fernando
 ## What's up?
 
+Software engineer focused on Javascript (Node and React).
+
 ```javascript
 const bruno = {
   code: [Javascript, Typescript, HTML, CSS],
